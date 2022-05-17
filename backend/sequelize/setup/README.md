@@ -11,6 +11,7 @@
     - [Instalação do `mysql2`](#instalação-do-mysql2)
   - [Inicialização de um projeto sequelize](#inicialização-de-um-projeto-sequelize)
   - [Criação de um arquivo _model_](#criação-de-um-arquivo-model)
+  - [Criação de um Banco de Dados](#criação-de-um-banco-de-dados)
   - [Arquivos _migration_](#arquivos-migration)
     - [Criação de um arquivo _migration_](#criação-de-um-arquivo-migration)
     - [Execução dos arquivos _migration_](#execução-dos-arquivos-migration)
