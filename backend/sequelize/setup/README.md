@@ -84,6 +84,15 @@ $ npx sequelize model:generate --name NomeDoModel --attributes nomeDoAtributo:st
 
 ---
 
+## Criação de um Banco de Dados
+
+> O comando criar um BD com o nome inserido no arquivo config.js
+> na chave `database:`.
+
+```bash
+$ npx sequelize db:create
+```
+
 ## Arquivos _migration_ 
 
 ### Criação de um arquivo _migration_ 
